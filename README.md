@@ -1,6 +1,8 @@
-# cn
+# cn我的主页
 zh-cn中文教程docs
+我的主页
 
+https://github.com/mgit0028/cn/wiki
 
 python中文教程
 
